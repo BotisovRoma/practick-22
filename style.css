@@ -1,0 +1,19 @@
+.wrapper {
+    width: 691px;
+    height: 354px;
+    font-size: 50px;
+    background-color: rgba(21, 24, 36, 0.4);
+    ;
+    background-image: url(./img/mount.png);
+    background-size: cover;
+    background-position: bottom center;
+    position: relative;
+}
+
+.text {
+    color: white;
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+    overflow: hidden;
+}
